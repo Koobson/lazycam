@@ -1,0 +1,12 @@
+# venv
+venv
+
+# cache
+model/__pycache__
+model/point_history_classifier/__pycache__
+model/keypoint_classifier/__pycache__
+utils/__pycache__
+
+# other
+.mypy_cache
+.ipynb_checkpoints
